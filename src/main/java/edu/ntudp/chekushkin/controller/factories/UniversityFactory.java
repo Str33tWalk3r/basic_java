@@ -1,4 +1,4 @@
- package edu.ntudp.chekushkin.controller.factories;
+package edu.ntudp.chekushkin.controller.factories;
 
 
 import edu.ntudp.chekushkin.model.Faculty;
