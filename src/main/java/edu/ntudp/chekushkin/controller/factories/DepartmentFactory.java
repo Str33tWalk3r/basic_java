@@ -1,8 +1,8 @@
 package edu.ntudp.chekushkin.controller.factories;
 
 import edu.ntudp.chekushkin.model.Department;
-import edu.ntudp.chekushkin.model.Group;
 import edu.ntudp.chekushkin.model.Head;
+import edu.ntudp.chekushkin.model.Group;
 
 import java.util.ArrayList;
 
